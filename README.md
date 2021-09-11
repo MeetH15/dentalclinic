@@ -13,7 +13,7 @@ This project is made using Bootstrap 5 and Python with flask as backend and Flas
 Project is created with:
 * Python 3
 * Flask 2.0
-*Flask_SQLAlchemy
+* Flask_SQLAlchemy
 	
 ## Setup
 To run this project, install it locally using pip in cmd or teminal:
